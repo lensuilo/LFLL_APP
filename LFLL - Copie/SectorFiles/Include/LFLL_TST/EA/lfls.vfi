@@ -1,0 +1,12 @@
+// [VFRFIX]
+// ID;altitude or note;LAT;LON;
+//VFR reporting points
+//LFLS
+N;;N045.28.08.000;E005.17.51.000; //Circuit automobile de Champier
+PU;;N045.28.19.000;E005.33.21.000; //Nord Lac de Paladru
+NE;;N045.26.52.000;E005.31.26.000; //Sud du Lac de Paladru
+VN;;N045.21.37.000;E005.37.30.000; //Travers Est Voiron
+W;;N045.19.26.000;E005.03.13.000; //Rond point sud déviation de Beaurepaire
+NW;;N045.26.42.000;E005.01.57.000; //Tunnel TGV
+SE;;N045.18.35.000;E005.37.03.000; //Echangeur Nord de Voreppe
+S;;N045.15.06.000;E005.14.47.000; //Lac au Sud de Roybon
