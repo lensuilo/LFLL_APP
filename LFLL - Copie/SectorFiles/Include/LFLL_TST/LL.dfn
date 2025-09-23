@@ -1,0 +1,13 @@
+--- Zones AD local ---;#FFFFFFFF;
+DYN_ACC_BKGND;#FF171717;
+DYN_ACC_CONTOUR;#FF620909;
+
+Yellow_sector;#FF3E3E3E;
+Green_sector;#FF3E3E3E;
+Purple_sector;#FF353535;
+Red_sector;#FF242424;
+
+P_CTR;#FF0F3B5F;  
+
+FOND;#FF282828;
+BORD;#FF619080;
