@@ -1,7 +1,0 @@
-// [VFRFIX]
-// ID;altitude or note;LAT;LON;
-//VFR reporting points
-//LFLG
-NE;;N045.16.19.000;E005.54.01.000; // Péage de Crolles-Brignoud
-SW;;N045.10.54.000;E005.46.26.000; // Centre commercial
-
