@@ -28,6 +28,11 @@ F;lfll.apt
 F;lfll.rwy
 
 [GATES]
+F;lflb.gts
+F;lfll.gts 
+F;lflp.gts 
+F;lfls.gts
+F;lfly.gts
 
 [FIXES]
 F;LLmm.fix
