@@ -6,7 +6,7 @@ E005.04.52.000
 60
 41.886
 0.34
-LFLL\AD;LFLL\EA;LFLL;LFLL\Common;LFLL\Common\NAV;
+LFLL\AD;LFLL\EA;LFLL;LFLL\Common;LFLL\Common\NAV;LFLL\AD\LFLL;LFLL\AD\LFLB;LFLL\AD\LFLG;LFLL\AD\LFLP;LFLL\AD\LFLS;LFLL\AD\LFLY;LFLL\AD\LFLU;
 
 [PROFILE]
 F;LFLL.cpr
@@ -14,7 +14,6 @@ F;LFLL.cpr
 [DEFINE]
 F;LFLL\LL.dfn
 F;LFLL\FR.dfn
-F;LFLL\FRsimple.dfn
 
 [Symboles]
 F;LL.sym
@@ -28,6 +27,11 @@ F;lfll.apt
 F;lfll.rwy
 
 [GATES]
+F;lflb.gts
+F;lfll.gts 
+F;lflp.gts 
+F;lfls.gts
+F;lfly.gts
 
 [FIXES]
 F;LLmm.fix
@@ -83,6 +87,9 @@ F;lfxa.gnd
 F;hgre.gnd
 F;hcby.gnd
 F;hncy.gnd
+
+[GEO]
+F;lfll.prohibit
 
 [FILLCOLOR]
 F;radarbk.tfl
